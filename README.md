@@ -1,0 +1,2 @@
+# Case-Study-4
+You are a data analyst in SanFrancisco(SFO) City IT Department.  SFO Police has shared crime data for year 2016.  Data contains various incidents which have happened throughout the year, along with the geolocation of the crime.You need to prepare effective webmaps to analyze and present the data.  SFO Commissioner of Police will reassign the forces based on the density of various crime
